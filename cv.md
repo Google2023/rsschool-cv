@@ -24,3 +24,8 @@ Specialist with several higher educations (law, military and special). Experienc
 - organization and maintaining safety and security of the overseas offices and their staff;
 - experience in personnel service, recruitment;
 - experience in management of private enterprise;
+#####Education and Qualification 
+Moscow Military Academy
+_Law degree. Special security degree_
+#####Languages
+Russian (native), English (fluent). 
