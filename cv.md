@@ -1,12 +1,12 @@
 # KALITA Aleksandr
-#####Contact information:
+##### Contact information:
 _Adress:_ **Minsk, Odoevskogo St., 101A, fl.332** zip 220015;
 *Cell phone:* __+375259429144__;
 *E-mail:* **belarus.2029@gmail.com**
-#####Career Objective:
+##### Career Objective:
 Specialist with several higher educations (law, military and special). Experience in various fields in Belarus and abroad, including public administration, management of private enterprise. Interested to work as Programmer, project management and coordination, management of analytical and consulting services.
 
-#####Knowledge and skills:
+##### Knowledge and skills:
 - organization of work and personnel management of a separate unit;
 - starting of new structural units and the organization of their work abroad;
 - Experience in working with government agencies of the Republic of Belarus and the United States, knowledge of the specifics of their structure and functioning including the security issues;
@@ -24,8 +24,8 @@ Specialist with several higher educations (law, military and special). Experienc
 - organization and maintaining safety and security of the overseas offices and their staff;
 - experience in personnel service, recruitment;
 - experience in management of private enterprise;
-#####Education and Qualification 
+##### Education and Qualification 
 Moscow Military Academy
 _Law degree. Special security degree_
-#####Languages
+##### Languages
 Russian (native), English (fluent). 
