@@ -127,3 +127,21 @@ ul > li:before{
 
 }
 
+/*footer*/
+.footer {
+    width: 100%;
+    padding: 50px;
+    letter-spacing: 0.1em;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+
+    
+
+}
+.logo {
+    height: 50px;
+}
+
+
